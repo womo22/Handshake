@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# To Run The App
+1. Clone Repository
+2. In your integrated terminal do 'npm install' to install dependencies
+3. Then in the terminal 'cd YOUR_PROJECT_PATH/handshake-interview/handshake-mern/handshake-server' and afterwards, do another command 'node handshake-server.js' to run the server app
+4. Afterwards, in the terminal, 'cd YOUR_PROJECT_PATH/handshake-interview/handshake-mern/client and afterwards, do another command 'npm start' to start the development serveer
+5. After running this, you will see Handshake database in your your 'https://localhost:YOUR_PORT_NUMBER"
 
 ## Available Scripts
 
