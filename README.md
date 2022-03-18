@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # To Run The App
 1. Clone Repository
-2. In your integrated terminal do 'npm install' to install dependencies
+2. In your integrated terminal do 'npm install' to install package dependencies
 3. Then in the terminal 'cd YOUR_PROJECT_PATH/handshake-interview/handshake-mern/handshake-server' and afterwards, do another command 'node handshake-server.js' to run the server app
 4. Afterwards, in the terminal, 'cd YOUR_PROJECT_PATH/handshake-interview/handshake-mern/client and afterwards, do another command 'npm start' to start the development serveer
 5. After running this, you will see Handshake database in your your 'https://localhost:YOUR_PORT_NUMBER"
@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### How The Website Looks On The Local Host
